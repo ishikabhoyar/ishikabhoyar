@@ -1,17 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=DDA0F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishika+Bhoyar!;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=DDA0F7FF&center=true&vCenter=true&width=600&lines=hi+there%2C+i'm+ishika+bhoyar!;building+modern+web+experiences" alt="Typing SVG" />
 </div>
 
 <h3 align="left"><span style="background: linear-gradient(to right, #DDA0F7, #9B59B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">about me</span></h2>
 
-Software developer skilled in building responsive, high-performance web applications using React, Tailwind, and modern JavaScript frameworks. Experienced in developing scalable solutions and collaborating across teams to deliver intuitive, user-friendly digital experiences.
-
-- 🔭 Currently working on web applications and code execution platforms
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about clean code and intuitive UI/UX
-- 🎯 Goal-oriented with a keen eye for detail
-
-<h3 align="left"><span style="background: linear-gradient(to right, #DDA0F7, #9B59B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">skills</span></h2>
+software developer skilled in building responsive, high-performance web applications using React, Tailwind, and modern JavaScript frameworks. Experienced in developing scalable solutions and collaborating across teams to deliver intuitive, user-friendly digital experiences.
 
 <div align="center">
   
