@@ -53,5 +53,7 @@ Software developer skilled in building responsive, high-performance web applicat
 
 <h3 align="left"><span style="background: linear-gradient(to right, #DDA0F7, #9B59B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">featured projects</span></h2>
 
+- **gmail-mcp-server** - Gmail MCP Server is a lightweight middleware solution that enables seamless integration with Gmail, Google Calendar, and Google Classroom APIs MCP. This server significantly reduces the complexity of accessing Google services from any MCP-compatible client, requiring only a simple JSON configuration.
 - **Monaco** - A secure, containerized code execution engine for multiple programming languages with REST API and WebSocket support
 - **Monaco Faculty** - Comprehensive web-based faculty management system for academic administration
+
