@@ -5,10 +5,11 @@
 <h3 align="left"><span style="background: linear-gradient(to right, #DDA0F7, #9B59B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">about me</span></h2>
 
 software developer skilled in building responsive, high-performance web applications using React, Tailwind, and modern JavaScript frameworks. Experienced in developing scalable solutions and collaborating across teams to deliver intuitive, user-friendly digital experiences.
+<br><br>
 
 <div align="center">
   
-### Languages
+### languages
   
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -22,7 +23,7 @@ software developer skilled in building responsive, high-performance web applicat
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Frameworks & Libraries
+### frameworks & libraries
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -32,7 +33,7 @@ software developer skilled in building responsive, high-performance web applicat
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Tools & Platforms
+### tools & platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -46,7 +47,7 @@ software developer skilled in building responsive, high-performance web applicat
 
 <h3 align="left"><span style="background: linear-gradient(to right, #DDA0F7, #9B59B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">featured projects</span></h2>
 
-- **gmail-mcp-server** - Gmail MCP Server is a lightweight middleware solution that enables seamless integration with Gmail, Google Calendar, and Google Classroom APIs MCP. This server significantly reduces the complexity of accessing Google services from any MCP-compatible client, requiring only a simple JSON configuration.
-- **Monaco** - A secure, containerized code execution engine for multiple programming languages with REST API and WebSocket support
-- **Monaco Faculty** - Comprehensive web-based faculty management system for academic administration
+- **gmail-mcp-server** : gmail MCP Server is a lightweight middleware solution that enables seamless integration with Gmail, Google Calendar, and Google Classroom APIs MCP. This server significantly reduces the complexity of accessing Google services from any MCP-compatible client, requiring only a simple JSON configuration.
+- **monaco** : a secure, containerized code execution engine for multiple programming languages with REST API and WebSocket support
+- **monaco faculty** : comprehensive web-based faculty management system for academic administration
 
